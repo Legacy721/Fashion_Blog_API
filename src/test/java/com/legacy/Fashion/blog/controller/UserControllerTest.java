@@ -47,7 +47,6 @@ class UserControllerTest {
 
 
     @Test
-    @Disabled
     void saveUser() throws Exception{
 
         SignupDTO signupDTO = new SignupDTO();
