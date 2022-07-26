@@ -31,5 +31,5 @@ jobs:
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
-        username: ${{ legacy721 }}
-        password: ${{ 07055913580 }}
+        username: "legacy721"
+        password: "07055913580"
