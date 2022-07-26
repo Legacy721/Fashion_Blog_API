@@ -71,6 +71,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>week-ten-task</finalName>
 	</build>
 
 </project>
